@@ -75,11 +75,12 @@ fisherXY(mydata$race,mydata$eatout,printAll=T)
 ```
 
 
+The P value number is so small that I fail to reject the null hypothesis. There is a difference in eating out with whites and blacks. Whites eat out more than blacks. No differences in other ethnicity . The answer being that whites eat out more. 
 Chi squared test shows the p value 0.0008179, we see the number is so small that we reject the null hypothesis. 
 The fisher exact test for count data shows that the p value 0.001208 is also very small that we reject the null hypothesis.
 
 
 ## Discussion and Conclusion
 
-Based on the results, we reject the null hypothesis because the p-value is so small, 0.0008179, showing there is a difference in the frequency of eating out among the ethnicity's.  
+I conclude there is difference in ethnicity eating out. I fail to reject the Null hypothesis. There is a difference in white eating out more than black according to the p-value = 0.0003864. , but there is no difference of white eating more than other ethnicity. The p-value = 0.3543. There is also no difference in black eating more than other ethnicity according to the p-value = 0.2815. Therefore, I reject the Null hyposthesis.  
 
